@@ -6,7 +6,7 @@ A complete **Excel Data Analysis Project** built from scratch, covering everythi
 
 ## 🖼️ Project Preview
 
-![Pivot Table Dashboard]([Pivot_table_screenshot.png](https://github.com/amitgusain2003/Excel-Sales-Analysis/blob/main/Pivot%20table%20screenshot.png?raw=true))
+![Pivot Table Dashboard]([pivot_table_screenshot.png])
 
 ---
 
