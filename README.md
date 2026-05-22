@@ -6,7 +6,7 @@ A complete **Excel Data Analysis Project** built from scratch, covering everythi
 
 ## 🖼️ Project Preview
 
-![Pivot Table Dashboard]([pivot_table_screenshot.png])
+![Dashboard Preview](pivot_table_screenshot.png)
 
 ---
 
